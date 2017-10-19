@@ -1,0 +1,25 @@
+{
+    "name": "jiangshengxin/mongodb-tools",
+    "description": "PHP writes mongodb database operation tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiangshengxin",
+            "email": "1348550820@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MongodbTools\\": "src/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}

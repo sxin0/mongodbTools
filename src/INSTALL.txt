@@ -1,0 +1,30 @@
+安装
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1。
+如果还没有的话，安装PHP运行时环境，比如Apache Httpd，Nginx……
+2。
+安装MongoDB PHP驱动程序(http://us.php.net/manual/en/mongo.installation.php)
+3。
+从http://rockmongo.com/downloads下载包
+4。
+将文件解压到您的磁盘，在您的站点的根目录下
+5。
+打开配置。
+使用方便的编辑器、更改主机、端口、管理员等。
+6。
+访问索引。
+php在浏览器中,例如:http://localhost/rockmongo/index.php
+7。
+使用admin用户名和密码登录，默认设置为“admin”和“admin”
+8。
+玩你的mongodb !
+
+从旧版本升级
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1。
+复制除配置外的所有文件。
+php到您的旧版本目录
+2.完成了!
+
+
+如何安装
