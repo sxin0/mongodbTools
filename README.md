@@ -20,8 +20,8 @@ PHP写的Mongodb操作数据库工具,类似mysql数据库操作软件Navicat,�
 
 composer install
 
-4.下载完毕以后,进入下载好的vendor/jiangshengxin.这个目录,就是类包目录.
-进入这个类包目录,执行CMD命令,生成装载文件,就可以运行了:
+4.下载完毕以后,进入下载好的vendor/jiangshengxin.目录,就是类包目录.
+进入这个类包目录,可以看到composer.json文件.执行CMD命令,生成装载文件,就可以运行了:
 
 composer update
 
